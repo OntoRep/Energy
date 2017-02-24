@@ -1,10 +1,9 @@
 {
     "@context": {		  
 
-	  "xsd": "http://www.w3.org/2001/XMLSchema#",       
-	  "seas": "http://www.w3.org/seas#",  	
+      "xsd": "http://www.w3.org/2001/XMLSchema#",       
+      "seas": "http://www.w3.org/seas#",  	
 	  
-
       "Evaluation": "http://www.w3.org/seas#Evaluation",
       "Profile": "http://www.w3.org/seas#Profile",
 	  	  	 		
@@ -21,19 +20,11 @@
       "production": "http://www.w3.org/seas#production",  
       "consumption": "http://www.w3.org/seas#consumption", 
 	  
-
-	  "seas:PowerBalance": "http://www.w3.org/seas#PowerBalance",
-	  "seas:Frequency": "http://www.w3.org/seas#Frequency",	  
-	  "seas:Active": "http://www.w3.org/seas#Active",
+      "seas:PowerBalance": "http://www.w3.org/seas#PowerBalance",
+      "seas:Frequency": "http://www.w3.org/seas#Frequency",	  
+      "seas:Active": "http://www.w3.org/seas#Active",
       "seas:kW": "http://www.w3.org/seas#KiloWatt",    
       "seas:MW": "http://www.w3.org/seas#MegaWatt",  
       "seas:Hz": "http://www.w3.org/seas#Herz"  	    	  
-    },
-	
-   "@type": "Profile",
-   "category": {"@id":"seas:Active"},
-   "about":    {"@id":"seas:PowerBalance"},
-   "unit":     {"@id":"seas:KiloWatt"},
-   "byURL": "localhost:3010",    
-   "ov": {"production": 11, "consumption": 23}
+    }
  }
