@@ -24,11 +24,14 @@
       "seas:PowerBalance": "http://www.w3.org/seas#PowerBalance",
       "seas:Frequency": "http://www.w3.org/seas#Frequency",	  
       "seas:Energy": "http://www.w3.org/seas#Energy",		
-      "seas:EnergyPrice": "http://www.w3.org/seas#EnergyPrice",		    
+      "seas:EnergyPrice": "http://www.w3.org/seas#EnergyPrice",		
+	    
       "seas:Active": "http://www.w3.org/seas#Active",
-      "seas:Controllable": "http://www.w3.org/seas#Active",	    
-      "seas:Control": "http://www.w3.org/seas#Active",	    	    
-      "seas:Forecast": "http://www.w3.org/seas#Active",	 
+      "seas:Controllable": "http://www.w3.org/seas#Controllable",	    
+      "seas:Control": "http://www.w3.org/seas#Control",	    	    
+      "seas:Forecast": "http://www.w3.org/seas#Forecast",	 
+      "seas:DayAhead": "http://www.w3.org/seas#DayAhead",	 	    
+      "seas:IntraDay": "http://www.w3.org/seas#IntraDay",    
 	    
       "seas:kW": "http://www.w3.org/seas#KiloWatt",    
       "seas:MW": "http://www.w3.org/seas#MegaWatt",  
