@@ -16,13 +16,20 @@
       "oValue": "http://www.w3.org/seas#objectValue",   
       "unit": "http://www.w3.org/seas#unit",      
       "value": "http://www.w3.org/seas#value",   	  
-      "time": "http://www.w3.org/seas#time",   	    	  
+      "time": "http://www.w3.org/seas#time",   	
+	    
       "production": "http://www.w3.org/seas#production",  
       "consumption": "http://www.w3.org/seas#consumption", 
 	  
       "seas:PowerBalance": "http://www.w3.org/seas#PowerBalance",
       "seas:Frequency": "http://www.w3.org/seas#Frequency",	  
+      "seas:Energy": "http://www.w3.org/seas#Energy",		
+      "seas:EnergyPrice": "http://www.w3.org/seas#EnergyPrice",		    
       "seas:Active": "http://www.w3.org/seas#Active",
+      "seas:Controllable": "http://www.w3.org/seas#Active",	    
+      "seas:Control": "http://www.w3.org/seas#Active",	    	    
+      "seas:Forecast": "http://www.w3.org/seas#Active",	 
+	    
       "seas:kW": "http://www.w3.org/seas#KiloWatt",    
       "seas:MW": "http://www.w3.org/seas#MegaWatt",  
       "seas:Hz": "http://www.w3.org/seas#Herz"  	    	  
