@@ -20,7 +20,9 @@
 	    
       "production": "http://www.w3.org/seas#production",  
       "consumption": "http://www.w3.org/seas#consumption", 
-	  
+      "energyPrice": "http://www.w3.org/seas#energyPrice", 	    
+      "flexibilityPrice": "http://www.w3.org/seas#flexibilityPrice", 
+	    
       "seas:PowerBalance": "http://www.w3.org/seas#PowerBalance",
       "seas:Frequency": "http://www.w3.org/seas#Frequency",	  
       "seas:Energy": "http://www.w3.org/seas#Energy",		
