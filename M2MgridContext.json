@@ -13,7 +13,7 @@
       "by": "http://www.w3.org/seas#generatedBy",
       "byURL": "http://www.w3.org/seas#generatedByURL",	  
       "tc": "http://www.w3.org/seas#temporalContext",    
-      "ov": "http://www.w3.org/seas#objectValue",   
+      "oValue": "http://www.w3.org/seas#objectValue",   
       "unit": "http://www.w3.org/seas#unit",      
       "value": "http://www.w3.org/seas#value",   	  
       "time": "http://www.w3.org/seas#time",   	    	  
